@@ -19,7 +19,7 @@ Die Erzählung endet dramatisch, als Mario, gegen seinen Willen manipuliert, den
 # "Irrungen Wirrungen" - Theodor Fontane
 
 #### Art von Text: Roman
-#### Erzählerperspektive: Third-Person-Erzähler
+#### Erzählerperspektive: Ich-Erzähler
 #### Epoche: Realismus/19. Jahrhundert
 #### Kurz:
 Erzählt die tragische Liebesgeschichte zwischen der einfachen, 
