@@ -85,13 +85,13 @@ Das Drama thematisiert Fragen der Freiheit, Gerechtigkeit und Brüderlichkeit un
 #### Erzählerperspektive: Ich-Erzähler
 #### Epoche: Gegenwartsliteratur/Zeitgenössisch
 #### Kurz:
-Die Handlung dreht sich um zwei Männer, Clarin und Loos, die sich zufällig in einem Restaurant treffen. 
-Sie befinden sich in einer Art Ferienort, der in einer unbestimmten Zeit und an einem unbestimmten Ort an einem See liegt, ähnlich den Orten in der Schweiz, in denen Markus Werner lebte. 
-Beide Männer sind aus unterschiedlichen Gründen allein gereist und finden in ihrer gemeinsamen Einsamkeit einen Anknüpfungspunkt.
-Clarin ist ein Mann, der vor der Liebe flieht, während Loos, ein Arzt, gerade seine Frau durch Selbstmord verloren hat. 
-Trotz ihrer unterschiedlichen Hintergründe finden sie Gemeinsamkeiten in ihren Erfahrungen mit der Liebe und dem Verlust und führen eine Reihe von Gesprächen darüber.
-Die meiste Zeit des Romans verbringen sie getrennt, denken aber immer wieder über ihre Begegnungen nach und betrachten sie aus unterschiedlichen Blickwinkeln. 
-Durch ihre Gespräche und Überlegungen erkunden sie Themen wie Liebe, Verlust, Schuld und Vergänglichkeit.
+In Markus Werners Roman "Am Hang" treffen sich die beiden Protagonisten Thomas Clarin und Thomas Loos zufällig in einem Restaurant.
+Clarin ist ein Scheidungsanwalt in den Dreißigern, Loos ein älterer Altphilologe. Die beiden haben völlig entgegengesetzte Weltanschauungen - Clarin nimmt das Leben leicht, wechselt oft die Partnerinnen und glaubt nicht an die Ehe, während Loos verbittert ist und die Treue in der Ehe schätzt. 
+Er spricht von seiner verstorbenen Frau Bettina, mit der er eine harmonische Ehe führte.
+Nach ihrer Begegnung verlässt Loos plötzlich das Hotel, woraufhin Clarin entscheidet, Loos' Geschichte zu untersuchen. 
+Er findet heraus, dass es keine Aufzeichnungen von Loos oder seiner verstorbenen Frau gibt. 
+Durch eine Begegnung mit Eva, einer ehemaligen Affäre und Freundin seiner ehemaligen Geliebten Valerie, erfährt Clarin, dass Loos tatsächlich Valerie's ehemaliger Ehemann Felix Bendel ist, der unter einem falschen Namen aufgetreten ist.
+Der Roman endet mit Clarin, der in seinem Ferienhaus sitzt und immer noch von der Begegnung mit Loos besessen ist, überzeugt, dass dieser immer noch in der Nähe ist.
 #### Charakter:
 * Thomas Clarin: Scheidungsanwalt, überzeugter Junggeselle, wechselnde Frauenbeziehungen.
 * Thomas Loos: Altphilologe, Witwer, introvertiert.
