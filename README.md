@@ -1,7 +1,7 @@
 # "Mario und der Zauberer" - Thomas Mann
 
 #### Art von Text: Novelle
-#### Erzählerperspektive: Third-Person-Erzähler
+#### Erzählerperspektive: Ich-Erzähler
 #### Epoche: Moderne/20. Jahrhundert
 #### Kurz:
 Eine symbolische Geschichte, die den Aufstieg des Faschismus in Europa kritisiert. 
@@ -19,7 +19,7 @@ Die Erzählung endet dramatisch, als Mario, gegen seinen Willen manipuliert, den
 # "Irrungen Wirrungen" - Theodor Fontane
 
 #### Art von Text: Roman
-#### Erzählerperspektive: Ich-Erzähler
+#### Erzählerperspektive: Auktorialer-Erzähler
 #### Epoche: Realismus/19. Jahrhundert
 #### Kurz:
 Erzählt die tragische Liebesgeschichte zwischen der einfachen, 
