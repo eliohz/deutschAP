@@ -115,6 +115,3 @@
 		### Charakter:
 		* Thomas Clarin: Scheidungsanwalt, überzeugter Junggeselle, wechselnde Frauenbeziehungen.
 		* Thomas Loos: Altphilologe, Witwer, introvertiert.
-		
-		
-	
