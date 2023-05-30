@@ -1,28 +1,3 @@
-# "Die Farm der Tiere" - George Orwell
-
-#### Art von Text: Roman
-#### Erzählerperspektive: Auktorialer Erzähler
-#### Epoche: Moderne/20. Jahrhundert
-#### Kurz:
-Politische Allegorie, die die Ereignisse der Russischen Revolution und die Entstehung der Sowjetunion parodiert. 
-Das Buch andelt von Tieren, die ihre Farm übernehmen. 
-Sie wollen, dass alle Tiere gleich sind. 
-Aber die Schweine, die anfangen, die Farm zu führen, ändern die Regeln und werden mächtiger. 
-Sie werden genauso schlimm wie die Menschen, die sie ursprünglich weggeschickt haben. 
-Am Ende sind die Schweine fast wie Menschen.
-#### Charakter:
-* Old Major: Weise, respektiert, inspirierend.
-* Napoleon: Ambitioniert, skrupellos, manipulativ.
-* Snowball: Intelligent, idealistisch, gut redend.
-* Squealer: Listig, überzeugend, Propagandist.
-* Boxer: Stark, loyal, naiv.
-* Clover: Fürsorglich, mütterlich, leichtgläubig.
-* Benjamin: Zynisch, intelligent, skeptisch.
-* Mr. Jones: Träge, sorglos, grausam.
-* Schweine: Dumm, manipulierbar
-
----
-
 # "Mario und der Zauberer" - Thomas Mann
 
 #### Art von Text: Novelle
@@ -113,3 +88,28 @@ Die Geschichte wird ausschließlich aus der Perspektive von Felix erzählt und k
 #### Charakter:
 * Thomas Clarin: Scheidungsanwalt, überzeugter Junggeselle, wechselnde Frauenbeziehungen.
 * Thomas Loos: Altphilologe, Witwer, introvertiert.
+
+---
+
+# "Die Farm der Tiere" - George Orwell
+
+#### Art von Text: Roman
+#### Erzählerperspektive: Auktorialer Erzähler
+#### Epoche: Moderne/20. Jahrhundert
+#### Kurz:
+Politische Allegorie, die die Ereignisse der Russischen Revolution und die Entstehung der Sowjetunion parodiert. 
+Das Buch andelt von Tieren, die ihre Farm übernehmen. 
+Sie wollen, dass alle Tiere gleich sind. 
+Aber die Schweine, die anfangen, die Farm zu führen, ändern die Regeln und werden mächtiger. 
+Sie werden genauso schlimm wie die Menschen, die sie ursprünglich weggeschickt haben. 
+Am Ende sind die Schweine fast wie Menschen.
+#### Charakter:
+* Old Major: Weise, respektiert, inspirierend.
+* Napoleon: Ambitioniert, skrupellos, manipulativ.
+* Snowball: Intelligent, idealistisch, gut redend.
+* Squealer: Listig, überzeugend, Propagandist.
+* Boxer: Stark, loyal, naiv.
+* Clover: Fürsorglich, mütterlich, leichtgläubig.
+* Benjamin: Zynisch, intelligent, skeptisch.
+* Mr. Jones: Träge, sorglos, grausam.
+* Schweine: Dumm, manipulierbar
