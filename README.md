@@ -71,8 +71,11 @@ Franz stirbt infolgedessen an seiner eigenen Schuld, während Karl, nachdem er s
 um sie vor dem Leben als Räuberin zu schützen, als Einsiedler endet. 
 Das Drama thematisiert Fragen der Freiheit, Gerechtigkeit und Brüderlichkeit und übt scharfe Kritik an den gesellschaftlichen Verhältnissen der Zeit.
 #### Charakter:
-* bla
-* bla
+* Karl Moor (Der ältere der Moor-Brüder und der Führer der Räuberbande): Unzufrieden, rebellisch, emotional
+* Franz Moor (Der jüngere der Moor-Brüder und der Antagonist der Handlung): Manipulativ, skrupellos, eifersüchtig
+* Amalia von Edelreich (Verlobte von Karl Moor): Loyal, liebevoll, stark
+* Maximilian "Amalia" von Moor (Der Vater von Karl und Franz Moor): Gutgläubig, patriarchalisch, gebrochen
+* Der Räuber Amor (Mitglied der Räuberbande von Karl Moor): Treu, mutig, pragmatisch
 
 ---
 
