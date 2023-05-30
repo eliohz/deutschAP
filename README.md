@@ -85,9 +85,13 @@ Das Drama thematisiert Fragen der Freiheit, Gerechtigkeit und Brüderlichkeit un
 #### Erzählerperspektive: Ich-Erzähler
 #### Epoche: Gegenwartsliteratur/Zeitgenössisch
 #### Kurz:
-Ein psychologischer Roman, der die Begegnung zweier Männer, Felix Bendel und Thomas Loos, im Tessin schildert. 
-Beide haben kürzlich ihre Ehefrauen verloren - Felix durch Tod und Thomas durch Trennung - und führen intensive Gespräche über Liebe und Verrat. 
-Die Geschichte wird ausschließlich aus der Perspektive von Felix erzählt und konfrontiert den Leser mit grundlegenden Fragen des menschlichen Daseins und der Moral.
+Die Handlung dreht sich um zwei Männer, Clarin und Loos, die sich zufällig in einem Restaurant treffen. 
+Sie befinden sich in einer Art Ferienort, der in einer unbestimmten Zeit und an einem unbestimmten Ort an einem See liegt, ähnlich den Orten in der Schweiz, in denen Markus Werner lebte. 
+Beide Männer sind aus unterschiedlichen Gründen allein gereist und finden in ihrer gemeinsamen Einsamkeit einen Anknüpfungspunkt.
+Clarin ist ein Mann, der vor der Liebe flieht, während Loos, ein Arzt, gerade seine Frau durch Selbstmord verloren hat. 
+Trotz ihrer unterschiedlichen Hintergründe finden sie Gemeinsamkeiten in ihren Erfahrungen mit der Liebe und dem Verlust und führen eine Reihe von Gesprächen darüber.
+Die meiste Zeit des Romans verbringen sie getrennt, denken aber immer wieder über ihre Begegnungen nach und betrachten sie aus unterschiedlichen Blickwinkeln. 
+Durch ihre Gespräche und Überlegungen erkunden sie Themen wie Liebe, Verlust, Schuld und Vergänglichkeit.
 #### Charakter:
 * Thomas Clarin: Scheidungsanwalt, überzeugter Junggeselle, wechselnde Frauenbeziehungen.
 * Thomas Loos: Altphilologe, Witwer, introvertiert.
