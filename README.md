@@ -2,7 +2,7 @@
 
 #### Art von Text: Novelle
 #### Erzählerperspektive: Ich-Erzähler
-#### Epoche: Moderne/20. Jahrhundert
+#### Epoche: Neue Sachlichkeit/20. Jahrhundert
 #### Kurz:
 Eine symbolische Geschichte, die den Aufstieg des Faschismus in Europa kritisiert. 
 Sie spielt in Torre di Venere (Italien) und erzählt die Geschichte von einem deutschen Touristen und seiner Familie, 
