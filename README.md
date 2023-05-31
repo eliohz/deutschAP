@@ -11,7 +11,7 @@ Der Zauberer Cipolla dient als Metapher für die hypnotische Macht des Faschismu
 Die Erzählung endet dramatisch, als Mario, gegen seinen Willen manipuliert, den Zauberer erschießt.
 #### Charakter:
 * Der Erzähler: Beobachtend, kritisch, reflektierend.
-* Mario: Sensibel, verletzlich, Trauernd (liebeskummer).
+* Mario: Sensibel, stolz, aufgebracht.
 * Cipolla: Manipulativ, machthungrig, charismatisch.
 
 ---
@@ -25,11 +25,11 @@ Die Erzählung endet dramatisch, als Mario, gegen seinen Willen manipuliert, den
 Erzählt die tragische Liebesgeschichte zwischen der einfachen, 
 aber edlen Näherin Lene Nimptsch und dem adligen Baron Botho von Rienäcker im Berlin des 19. Jahrhunderts. 
 Trotz ihrer tiefen Liebe zueinander sind sie durch gesellschaftliche Konventionen und Klassenschranken gezwungen, sich zu trennen. 
-Botho heiratet eine adlige Frau, während Lene einen ehrlichen Handwerker heiratet. 
+Botho heiratet eine adlige Frau (cousine), während Lene einen ehrlichen Handwerker heiratet. 
 Die Geschichte endet mit der bitteren Erkenntnis, dass wahre Liebe oft den gesellschaftlichen Normen und Erwartungen zum Opfer fällt.
 #### Charakter:
 * Botho von Rienäcker: Baron, Offizier, verliebt in Lene Nimptsch.
-* Lene Nimptsch(Magdalene): kleinbürgerliche Schneidermamsell, verliebt in Botho von Rienäcker.
+* Lene Nimptsch(Magdalene): kleinbürgerliche Schneidermamsell, liebevoll und standhaft, akzeptiert Klassengesetze
 * Pflegemutter Nimptsch: alt, krank
 * Frau Dörr: Wirtin, Mutter von zwei Kindern.
 
@@ -62,20 +62,21 @@ Die Charaktere reichen vom Proletariat bis zur Aristokratie, und ihre Beziehunge
 # "Die Räuber" - Friedrich Schiller
 
 #### Art von Text: Drama
-#### Erzählerperspektive: Dialoge zwischen den Charakteren
+#### Erzählerperspektive: Dialoge und Monologe der Charaktere
 #### Epoche: Sturm und Drang/18. Jahrhundert
-#### Kurz:
-Ein Drama, das die tragische Geschichte der Brüder Karl und Amalia Moor erzählt. 
-Karl, der ältere Bruder, wird durch eine Intrige seines jüngeren Bruders Franz von seinem Vater verstoßen und wird zum Anführer einer Räuberbande. 
-Franz stirbt infolgedessen an seiner eigenen Schuld, während Karl, nachdem er seine Geliebte Amalia getötet hat, 
-um sie vor dem Leben als Räuberin zu schützen, als Einsiedler endet. 
-Das Drama thematisiert Fragen der Freiheit, Gerechtigkeit und Brüderlichkeit und übt scharfe Kritik an den gesellschaftlichen Verhältnissen der Zeit.
-#### Charakter:
-* Karl Moor (Der ältere der Moor-Brüder und der Führer der Räuberbande): Unzufrieden, rebellisch, emotional
-* Franz Moor (Der jüngere der Moor-Brüder und der Antagonist der Handlung): Manipulativ, skrupellos, eifersüchtig
-* Amalia von Edelreich (Verlobte von Karl Moor): Loyal, liebevoll, stark
-* Maximilian "Amalia" von Moor (Der Vater von Karl und Franz Moor): Gutgläubig, patriarchalisch, gebrochen
-* Der Räuber Amor (Mitglied der Räuberbande von Karl Moor): Treu, mutig, pragmatisch
+#### Kurz:  
+Das Drama handelt von den Brüdern Karl und Franz Moor. Karl, der ältere Bruder, ist an der Universität und ein lebenslustiger Student. 
+Franz, der jüngere Bruder, ist eifersüchtig auf Karl und intrigiert gegen ihn, indem er ihren Vater, den alten Grafen Moor, von Karls ungebührlichem Verhalten berichtet. 
+Dadurch wird Karl enterbt und Franz wird zum Erben ernannt. Karl gründet daraufhin eine Räuberbande und sorgt in der Region für Unruhe. 
+Franz nutzt seine Stellung aus, um den Grafen zu manipulieren und versucht, Amalia, die Verlobte von Karl, für sich zu gewinnen. 
+Die Räuber führen Raubzüge durch, die jedoch auch soziale Ungerechtigkeiten aufdecken. Am Ende stellt sich Karl der Justiz und Franz stirbt. 
+Karl bereut seine Taten und bereitet sich auf seinen eigenen Tod vor.finden.
+#### Charakter: 
+* Karl Moor: Idealistisch, melancholisch, rebellisch, der Anführer der Räuberbande.
+* Franz Moor: Eifersüchtig, intrigant, Macht hungrig, der jüngere Bruder, der gegen Karl intrigiert.
+* Amalia von Edelreich: Tapfer, liebevoll, treu, sie ist Karls Verlobte und bleibt ihm trotz seiner Verbrechen treu.
+* Der alte Graf Moor: Verwirrt, manipuliert, enttäuscht von Karl und manipuliert von Franz, Vater von Karl und Franz.
+* Die Räuber: Varierend in Persönlichkeit und Motivation, Mitglieder von Karls Räuberbande. 
 
 ---
 
@@ -100,7 +101,7 @@ Der Roman endet mit Clarin, der in seinem Ferienhaus sitzt und immer noch von de
 
 # "Die Farm der Tiere" - George Orwell
 
-#### Art von Text: Roman
+#### Art von Text: Fabel
 #### Erzählerperspektive: Auktorialer Erzähler
 #### Epoche: Moderne/20. Jahrhundert
 #### Kurz:
@@ -119,4 +120,5 @@ Am Ende sind die Schweine fast wie Menschen.
 * Clover: Fürsorglich, mütterlich, leichtgläubig.
 * Benjamin: Zynisch, intelligent, skeptisch.
 * Mr. Jones: Träge, sorglos, grausam.
-* Schweine: Dumm, manipulierbar
+* Schafe: Dumm, manipulierbar
+* Die Schweine: Intelligent, manipulativ
